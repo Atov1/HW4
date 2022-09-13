@@ -1,0 +1,15 @@
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\bin\Debug\net7.0\tusk25.exe
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\bin\Debug\net7.0\tusk25.deps.json
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\bin\Debug\net7.0\tusk25.runtimeconfig.json
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\bin\Debug\net7.0\tusk25.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\bin\Debug\net7.0\tusk25.pdb
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.csproj.AssemblyReference.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.AssemblyInfoInputs.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.AssemblyInfo.cs
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.csproj.CoreCompileInputs.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\refint\tusk25.dll
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.pdb
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\tusk25.genruntimeconfig.cache
+C:\Users\Atov\Desktop\GBed\Homework\HW4\tusk25\obj\Debug\net7.0\ref\tusk25.dll
